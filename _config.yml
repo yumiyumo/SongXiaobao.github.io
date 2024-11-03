@@ -21,7 +21,7 @@ repository               : "yumiyumo/SongXiaobao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_1.png"
+  avatar           : "profile.png"
   name             : "Song Xiaobao"
   pronouns         : # example: "she/her"  
   bio              : "I am a graduate student at the College of Electronic and Information Engineering, Shenzhen University."
